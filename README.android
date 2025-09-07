@@ -1,11 +1,2 @@
-URL: https://github.com/googlefonts/roboto-classic/releases/tag/v3.005
-Version: 3.005
-License: Apache 2.0
-License File: NOTICE
-
-Description:
-Roboto fonts, the default LGC fonts on Android.
-
-Local Modifications:
-To be PostScript name unique, change PostScript name of RobotoStatic-Regular.ttf
-to RobotoStatic-Regular
+# Product Sans
+Product Sans is a geometric sans-serif typeface created by Google for branding purposes.[2][3] It replaced the old Google logo on September 1, 2015. As Google's branding was becoming more apparent on a multitude of devices, Google sought to adapt its design so that its logo could be portrayed in constrained spaces and remain consistent for its users across platforms. Product Sans is also used in some of Google’s user interfaces, in a size-optimized version named Google Sans[4].
